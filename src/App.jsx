@@ -11,6 +11,8 @@ function App() {
           <p>This is a simple React application running in a Docker container.</p>
         </header>
         <main>
+          <p>This app demonstrates how to set up a React application with Docker.</p>
+          <p>It includes a Dockerfile for building the application and a GitHub Actions workflow for automating the build and push process to Docker Hub.</p>
           <p>Feel free to explore and modify the code!</p>
           <p>To run this app, make sure you have Docker installed and run the following commands:</p>
         </main>
