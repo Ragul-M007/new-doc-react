@@ -12,6 +12,7 @@ function App() {
         </header>
         <main>
           <p>Feel free to explore and modify the code!</p>
+          <p>To run this app, make sure you have Docker installed and run the following commands:</p>
         </main>
         <footer>
           <p>&copy; 2023 My React App</p>
