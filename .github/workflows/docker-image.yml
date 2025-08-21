@@ -25,7 +25,7 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
         with:
-          context: ./my-react-app
-          file: ./my-react-app/Dockerfile
+          context: ./new-demo-docker
+          file: ./new-demo-docker/Dockerfile
           push: true
-          tags: your-dockerhub-username/your-image-name:latest
+          tags: ragulktr007/new-demo-docker:latest
